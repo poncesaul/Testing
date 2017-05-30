@@ -1,0 +1,10 @@
+package com.ejemplo.json.main;
+
+public class JacksonExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
